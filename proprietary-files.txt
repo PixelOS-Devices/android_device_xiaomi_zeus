@@ -178,7 +178,6 @@ vendor/etc/camera/ellv_params.xml
 vendor/etc/camera/hdrcheckerparamsettings.yml
 vendor/etc/camera/his_conf_preview.yaml
 vendor/etc/camera/his_conf_video.yaml
-vendor/etc/camera/megviifacepp_0_5_2_model
 vendor/etc/camera/miai_hdr_config.yaml
 vendor/etc/camera/miai_psn_config.yaml
 vendor/etc/camera/mialgo_seg_ldc_parameters.json
@@ -623,7 +622,6 @@ vendor/lib64/hw/camera.xiaomi.so
 vendor/lib64/hw/vendor.xiaomi.hardware.quickcamera@1.0-impl.so
 vendor/lib64/libAF.so
 vendor/lib64/libHISCppAlgos.so
-vendor/lib64/libMegviiFacepp-0.5.2.so
 vendor/lib64/libQnnHtpAltPrepV69Stub.so
 vendor/lib64/libSNPE.so
 vendor/lib64/libSnpeCpu.so;FIX_SONAME
@@ -687,7 +685,6 @@ vendor/lib64/libipebpsstriping170.so
 vendor/lib64/libipebpsstriping480.so
 vendor/lib64/libjpege.so
 vendor/lib64/libmctfengine_stub.so
-vendor/lib64/libmegface.so
 vendor/lib64/libmfGhostDetection.so
 vendor/lib64/libmiStereoFactoryRemapBasicLib.so
 vendor/lib64/libmiai_deblur.so
@@ -775,6 +772,11 @@ vendor/lib64/vendor.xiaomi.hardware.bgservice@1.0.so
 vendor/lib64/vendor.xiaomi.hardware.campostproc@1.0-service-impl.so
 vendor/lib64/vendor.xiaomi.hardware.campostproc@1.0.so
 vendor/lib64/vendor.xiaomi.hardware.quickcamera@1.0.so
+
+# Camera face detection
+vendor/etc/camera/megviifacepp_0_5_2_model:vendor/etc/camera/facedetectpp_0_5_2_model
+vendor/lib64/libMegviiFacepp-0.5.2.so:vendor/lib64/libFaceDetectpp-0.5.2.so;FIX_SONAME
+vendor/lib64/libmegface.so:vendor/lib64/libfacedet.so;FIX_SONAME
 
 # Camera firmware
 vendor/firmware/CAMERA_ICP.b00
