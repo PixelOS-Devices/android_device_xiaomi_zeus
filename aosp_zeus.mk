@@ -8,9 +8,9 @@
 $(call inherit-product, device/xiaomi/zeus/device.mk)
 
 # Inherit from common lineage configuration
-$(call inherit-product, vendor/lineage/config/common_full_phone.mk)
+$(call inherit-product, vendor/aosp/config/common_full_phone.mk)
 
-PRODUCT_NAME := lineage_zeus
+PRODUCT_NAME := aosp_zeus
 PRODUCT_DEVICE := zeus
 PRODUCT_MANUFACTURER := Xiaomi
 PRODUCT_BRAND := Xiaomi
