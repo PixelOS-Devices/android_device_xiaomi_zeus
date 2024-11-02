@@ -1,0 +1,22 @@
+[
+  {
+    "repository": "PixelOS-Devices/android_device_xiaomi_sm8450-common",
+    "target_path": "device/xiaomi/sm8450-common"
+  },
+  {
+    "repository": "PixelOS-Devices/device_xiaomi_miuicamera-zeus",
+    "target_path": "device/xiaomi/miuicamera-zeus"
+  },
+  {
+    "remote": "gitlab",
+    "repository": "NoPrincessHere/proprietary_vendor_xiaomi_zeus",
+    "target_path": "vendor/xiaomi/zeus",
+    "branch": "sixteen"
+  },
+  {
+    "remote": "gitlab",
+    "repository": "NoPrincessHere/proprietary_vendor_xiaomi_miuicamera-zeus",
+    "target_path": "vendor/xiaomi/miuicamera-zeus",
+    "branch": "sixteen-qpr1"
+  }
+]
