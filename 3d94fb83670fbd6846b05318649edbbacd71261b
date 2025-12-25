@@ -1,0 +1,61 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "398eaac8_9220cced",
+        "filename": "custom.dependencies",
+        "patchSetId": 1
+      },
+      "lineNbr": 5,
+      "author": {
+        "id": 1000002
+      },
+      "writtenOn": "2025-12-25T06:15:34Z",
+      "side": 1,
+      "message": "This should be tracked from PixelOS-Device. Remove branch definitions, roomservice handles it.",
+      "revId": "3d94fb83670fbd6846b05318649edbbacd71261b",
+      "serverId": "58543e18-2196-4633-8043-7787712585ad"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "d25f657e_1dbcd177",
+        "filename": "custom.dependencies",
+        "patchSetId": 1
+      },
+      "lineNbr": 19,
+      "author": {
+        "id": 1000002
+      },
+      "writtenOn": "2025-12-25T06:15:34Z",
+      "side": 1,
+      "message": "Vendor repos should be from NoPrincessHere organization",
+      "revId": "3d94fb83670fbd6846b05318649edbbacd71261b",
+      "serverId": "58543e18-2196-4633-8043-7787712585ad"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "3519c519_14eaf3ef",
+        "filename": "custom_zeus.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 10,
+      "author": {
+        "id": 1000002
+      },
+      "writtenOn": "2025-12-25T06:15:34Z",
+      "side": 1,
+      "message": "PixelOS",
+      "range": {
+        "startLine": 10,
+        "startChar": 22,
+        "endLine": 10,
+        "endChar": 29
+      },
+      "revId": "3d94fb83670fbd6846b05318649edbbacd71261b",
+      "serverId": "58543e18-2196-4633-8043-7787712585ad"
+    }
+  ]
+}
