@@ -20,6 +20,24 @@
     {
       "unresolved": true,
       "key": {
+        "uuid": "b6e68f6a_f5170af6",
+        "filename": "custom.dependencies",
+        "patchSetId": 1
+      },
+      "lineNbr": 5,
+      "author": {
+        "id": 1000013
+      },
+      "writtenOn": "2025-12-26T09:40:28Z",
+      "side": 1,
+      "message": "is it fine to track modules and devicetree separately?",
+      "parentUuid": "398eaac8_9220cced",
+      "revId": "3d94fb83670fbd6846b05318649edbbacd71261b",
+      "serverId": "58543e18-2196-4633-8043-7787712585ad"
+    },
+    {
+      "unresolved": true,
+      "key": {
         "uuid": "d25f657e_1dbcd177",
         "filename": "custom.dependencies",
         "patchSetId": 1
