@@ -89,6 +89,24 @@
       "serverId": "58543e18-2196-4633-8043-7787712585ad"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "74910d4f_0928eaed",
+        "filename": "custom.dependencies",
+        "patchSetId": 1
+      },
+      "lineNbr": 19,
+      "author": {
+        "id": 1000013
+      },
+      "writtenOn": "2026-01-02T12:15:09Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "d25f657e_1dbcd177",
+      "revId": "3d94fb83670fbd6846b05318649edbbacd71261b",
+      "serverId": "58543e18-2196-4633-8043-7787712585ad"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "3519c519_14eaf3ef",
@@ -102,6 +120,30 @@
       "writtenOn": "2025-12-25T06:15:34Z",
       "side": 1,
       "message": "PixelOS",
+      "range": {
+        "startLine": 10,
+        "startChar": 22,
+        "endLine": 10,
+        "endChar": 29
+      },
+      "revId": "3d94fb83670fbd6846b05318649edbbacd71261b",
+      "serverId": "58543e18-2196-4633-8043-7787712585ad"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "42fa1e8e_5f93b4a7",
+        "filename": "custom_zeus.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 10,
+      "author": {
+        "id": 1000013
+      },
+      "writtenOn": "2026-01-02T12:15:09Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "3519c519_14eaf3ef",
       "range": {
         "startLine": 10,
         "startChar": 22,
