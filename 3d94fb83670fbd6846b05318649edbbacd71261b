@@ -74,6 +74,24 @@
     {
       "unresolved": true,
       "key": {
+        "uuid": "50f26032_8e345624",
+        "filename": "custom.dependencies",
+        "patchSetId": 1
+      },
+      "lineNbr": 5,
+      "author": {
+        "id": 1000036
+      },
+      "writtenOn": "2026-01-03T08:23:22Z",
+      "side": 1,
+      "message": "You\u0027re using common kernel so it\u0027s deps should live inside common tree",
+      "parentUuid": "49e5cab0_6bf71f45",
+      "revId": "3d94fb83670fbd6846b05318649edbbacd71261b",
+      "serverId": "58543e18-2196-4633-8043-7787712585ad"
+    },
+    {
+      "unresolved": true,
+      "key": {
         "uuid": "d25f657e_1dbcd177",
         "filename": "custom.dependencies",
         "patchSetId": 1
