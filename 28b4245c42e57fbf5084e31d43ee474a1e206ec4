@@ -16,6 +16,24 @@
       "message": "You shouldn\u0027t define branch for our repos, roomservice will know what branch to use.",
       "revId": "28b4245c42e57fbf5084e31d43ee474a1e206ec4",
       "serverId": "58543e18-2196-4633-8043-7787712585ad"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "62205f8b_33e87d48",
+        "filename": "custom.dependencies",
+        "patchSetId": 5
+      },
+      "lineNbr": 14,
+      "author": {
+        "id": 1000013
+      },
+      "writtenOn": "2026-01-05T03:30:38Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "5b7067d0_47bdcad0",
+      "revId": "28b4245c42e57fbf5084e31d43ee474a1e206ec4",
+      "serverId": "58543e18-2196-4633-8043-7787712585ad"
     }
   ]
 }
