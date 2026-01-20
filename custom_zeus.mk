@@ -10,10 +10,6 @@ $(call inherit-product, device/xiaomi/zeus/device.mk)
 # Inherit from common PixelOS configuration
 $(call inherit-product, vendor/custom/config/common_full_phone.mk)
 
-# MiuiCamera
-$(call inherit-product, device/xiaomi/miuicamera-zeus/device.mk)
-$(call inherit-product, device/xiaomi/miuicamera-zeus/BoardConfig.mk)
-
 PRODUCT_NAME := custom_zeus
 PRODUCT_DEVICE := zeus
 PRODUCT_MANUFACTURER := Xiaomi
